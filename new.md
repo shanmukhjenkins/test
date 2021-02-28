@@ -290,4 +290,4 @@ Vetti Text
 
 Vetti Text
 
-## <a name="custom"></a> Heading with Custom Anchor
+## <a name="custom"></a><font color=blue>Heading with Custom Anchor</font>
