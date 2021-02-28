@@ -2,7 +2,7 @@
 
 [Second Anchor](#second-anchor)
 
-[Custom Anchor](custom)
+[Custom Anchor](#custom)
 
 ## Dummy heading
 Vetti Text
